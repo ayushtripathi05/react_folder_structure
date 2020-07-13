@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+this will help you to understand folder structure and component based structure of any react app
 
 ## Available Scripts
 
